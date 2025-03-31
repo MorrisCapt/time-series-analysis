@@ -1,2 +1,2 @@
-# time-series-analysis
-This is to predict Kenya's inflation over the next 5yrs
+# kenya-inflation-forecasting
+Forecasting Kenya's Inflation Rate in the next 5 years
